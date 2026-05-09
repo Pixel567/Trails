@@ -5,7 +5,7 @@
  ## Features
 ​
  - **Route Discovery**: Browse a curated list of hiking and cycling trails with details on distance and difficulty.
- - **Wikipedia Integration**: Each trail is linked to a Wikipedia article. The app automatically fetches descriptions and photos to provide interesting facts about the places you visit.
+ - **Wikipedia Integration**: Each trail is linked to a Wikipedia article. The app automatically fetches descriptions to provide interesting facts about the places you visit.
  - **Trip Stopwatch**: Measure the time of your excursions with a built-in stopwatch.
  - **Activity History**: Save and manage your best times for each completed trail.
  - **Modern UI**: Built with Jetpack Compose and Material 3, featuring a responsive design and smooth animations.
